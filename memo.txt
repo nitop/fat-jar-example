@@ -1,0 +1,6 @@
+http://www.glamenv-septzen.net/view/1121
+
+
+java -Dconfig.file=application.conf -jar fat-jar-example-0.0.1-SNAPSHOT-fat-jar-configs.jar
+
+Dlogback.configurationFile=myFilePath.
